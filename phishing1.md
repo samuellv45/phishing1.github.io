@@ -18,6 +18,8 @@
             padding: 20px;
             border-radius: 5px;
             display: inline-block;
+            max-width: 500px;
+            margin: auto;
         }
         h1 {
             font-size: 2em;
@@ -25,13 +27,14 @@
         }
         p {
             font-size: 1.2em;
+            margin-bottom: 1em;
         }
     </style>
 </head>
 <body>
     <div class="container">
         <h1>¡Atención!</h1>
-        <p>Has caído en un sitio de phishing. Por favor, cierra esta página inmediatamente y revisa la seguridad de tu cuenta.</p>
+        <p>Has caído en un sitio de phishing. Por favor, cierra esta página inmediatamente y dirígete al departamento de seguridad para inscribirte en un curso de capacitación.</p>
     </div>
 </body>
 </html>
